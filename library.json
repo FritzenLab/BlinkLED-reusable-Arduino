@@ -1,0 +1,16 @@
+{
+  "name": "BlinkLED",
+  "version": "1.0.0",
+  "description": "Non-blocking, multi-pin LED blink helper for Arduino (AVR and ESP32 compatible).",
+  "keywords": "led, blink, non-blocking, arduino, esp32",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FritzenLab/BlinkLED-reusable-Arduino"
+  },
+  "authors": [
+    { "name": "Clovis Fritzen", "email": "electronics@fritzenlab.net" }
+  ],
+  "license": "MIT",
+  "frameworks": "arduino",
+  "platforms": "*"
+}
